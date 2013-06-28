@@ -30,11 +30,11 @@ An answer to that question.
 
 == Screenshots ==
 
-
+No screen shots available at this moment.
 
 == Changelog ==
 
-
+This is a premature widget.
 
 == Upgrade notice ==
 
@@ -42,3 +42,4 @@ An answer to that question.
 
 == Arbitrary section 1 ==
 
+This is a premature widget.

@@ -38,7 +38,7 @@ This is a premature widget.
 
 == Upgrade notice ==
 
-
+This is a premature widget.
 
 == Arbitrary section 1 ==
 

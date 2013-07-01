@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 WooCommerce Cross selling adds the widget showing people who bought this also bought this products.
 
 == Description ==
-
+adds feature of Amazon’s “Customers who bought this, also bought this” feature
 WooCommerce Cross selling adds the widget showing people who bought this also bought this products.
 
 It was made out with the frustration, since I was not able to find any plugin for wp. Adds some sort of functionality like in amazon site.
